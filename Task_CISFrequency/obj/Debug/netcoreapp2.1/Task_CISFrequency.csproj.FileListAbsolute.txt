@@ -1,0 +1,11 @@
+C:\Users\estratulat\source\repos\Task_CISFrequency\Task_CISFrequency\bin\Debug\netcoreapp2.1\Task_CISFrequency.deps.json
+C:\Users\estratulat\source\repos\Task_CISFrequency\Task_CISFrequency\bin\Debug\netcoreapp2.1\Task_CISFrequency.runtimeconfig.json
+C:\Users\estratulat\source\repos\Task_CISFrequency\Task_CISFrequency\bin\Debug\netcoreapp2.1\Task_CISFrequency.runtimeconfig.dev.json
+C:\Users\estratulat\source\repos\Task_CISFrequency\Task_CISFrequency\bin\Debug\netcoreapp2.1\Task_CISFrequency.dll
+C:\Users\estratulat\source\repos\Task_CISFrequency\Task_CISFrequency\bin\Debug\netcoreapp2.1\Task_CISFrequency.pdb
+C:\Users\estratulat\source\repos\Task_CISFrequency\Task_CISFrequency\obj\Debug\netcoreapp2.1\Task_CISFrequency.csprojAssemblyReference.cache
+C:\Users\estratulat\source\repos\Task_CISFrequency\Task_CISFrequency\obj\Debug\netcoreapp2.1\Task_CISFrequency.csproj.CoreCompileInputs.cache
+C:\Users\estratulat\source\repos\Task_CISFrequency\Task_CISFrequency\obj\Debug\netcoreapp2.1\Task_CISFrequency.AssemblyInfoInputs.cache
+C:\Users\estratulat\source\repos\Task_CISFrequency\Task_CISFrequency\obj\Debug\netcoreapp2.1\Task_CISFrequency.AssemblyInfo.cs
+C:\Users\estratulat\source\repos\Task_CISFrequency\Task_CISFrequency\obj\Debug\netcoreapp2.1\Task_CISFrequency.dll
+C:\Users\estratulat\source\repos\Task_CISFrequency\Task_CISFrequency\obj\Debug\netcoreapp2.1\Task_CISFrequency.pdb
